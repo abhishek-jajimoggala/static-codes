@@ -1,0 +1,2 @@
+# static-codes
+static codes
